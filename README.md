@@ -11,7 +11,7 @@ I am both a stomatology clinical intern and deep learning researcher, focusing o
 - **OralGatedPCNN**：Channel‑Gated Skip Module for dental point‑cloud segmentation, under review at *Biomedical Signal Processing and Control*
   > Code repo: https://github.com/yiminwang-ai/OralGatedPCNN
 - **Multimodal‑Dental‑AI‑Review**：Systematic review spotlight under review at *JMIR*
-  > Project spotlight: https://github.com/yiminwang‑ai/Multimodal‑Dental‑AI‑Review
+  > Project spotlight: https://github.com/yiminwang-ai/Multimodal-Dental-AI-Review
 
 I lead **Dental‑Gradient**, a 15+ members cross‑university research group for oral AI, covering dataset evaluation, model development and clinical‑AI bridging. We are now building a 1100+ orthodontic (IOS & CBCT) for AI training.
 
