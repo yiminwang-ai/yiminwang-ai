@@ -49,7 +49,7 @@ Current focus: building a **1100+ case orthodontic dataset** (IOS & CBCT) for AI
 
 | Status | Count | Target Venues |
 |--------|-------|---------------|
-| 🟢 Published | 2 | Q1 Medical AI Journals |
+| 🟢 Published | 2 | European J Cancer(IF=7.9), Int Dent J |
 | 🟡 Under Review | 2 | Q1 Medical AI Journals |
 | 🔵 In Preparation | 2 | MICCAI, npj Digital Medicine, JBHI, IEEE-TMI |
 
