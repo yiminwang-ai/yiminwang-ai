@@ -30,6 +30,12 @@ PF-Net based framework for completing partially scanned dental crowns from intra
 PRISMA 2020 systematic review on multimodal AI for oral lesion screening.  
 📄 *Under review at Journal of Medical Internet Research (JMIR)*
 
+### 🧠 [MedicalBertNer](https://github.com/yiminwang-ai/MedicalBertNer)
+BERT-BiLSTM-CRF architecture for Chinese medical named entity recognition.  
+Extracts diseases, drugs, symptoms, and examinations from unstructured clinical texts.  
+📄 *Code release*  
+🏆 *Silver Award, Provincial Service Outsourcing Competition
+
 ---
 
 ## 🏢 Dental-Gradient Research Group
