@@ -9,7 +9,7 @@ I am both a stomatology clinical intern and deep learning researcher, focusing o
 
 ### 🧑‍💻 Projects
 - **OralGatedPCNN**：Channel‑Gated Skip Module for dental point‑cloud segmentation, under review at *Biomedical Signal Processing and Control*
-  > Code repo: https://github.com/yiminwang‑ai/OralGatedPCNN
+  > Code repo: github.com/yiminwang-ai/OralGatedPCNN
 - **Multimodal‑Dental‑AI‑Review**：Systematic review spotlight under review at *JMIR*
   > Project spotlight: https://github.com/yiminwang‑ai/Multimodal‑Dental‑AI‑Review
 
